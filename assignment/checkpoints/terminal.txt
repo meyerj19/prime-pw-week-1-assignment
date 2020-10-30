@@ -29,3 +29,4 @@ To see the status of files inside the git folder I am in.
 Adds everything in the folder to git. Staging a commit.
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
+git push -u origin master

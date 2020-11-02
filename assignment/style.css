@@ -5,10 +5,10 @@ body {
 
 /* Make the header and footer a different color from the background */
 h1 {
-  background-color: #4dd081;
+  background-color: #f57f17;
   }
   footer {
-    background-color: #fff59d;
+    background-color: #ffc107;
   }
 /*h1 {
   color: #7cb342;
@@ -24,13 +24,19 @@ h1 {
 
 /* Make your p tag a different color and italic */
 p {
-  color: #1e88e5;
+  color: #2e7d32;
   font-style: italic;
+}
+h4 {
+  text-align: right;
+  color: #4e342e;
 }
 
 /* Put a border around your image */
 img {
-  border: 100px solid #e0f7fa;
+  border: 50px solid #9ccc65;
+  width: 250px;
+  length: 250px;
 }
 
 /* Change the font-family of your list */
